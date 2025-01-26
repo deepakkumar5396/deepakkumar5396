@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100" height="100" style="float: right;">
   <h1>Hi  I'm Deepak Kumar</h1>
-  <h3>Software Developer | Web Developer | Freelancer | 2 years of Experience | Leadsquared Custom App,Lapps,Automation and Leadsquared Plateform Support</h3>
+  <h3>Software Developer | Web Developer | Freelancer | 4 years of Experience | Leadsquared Custom App,Lapps,Automation and Leadsquared Plateform Support</h3>
 </div>
 
 <p align="center">
-<em>PS: I am a committed and hardworking Software Developer with 2 years of experience. I thrive on challenges and consistently seek opportunities to enhance my skills. Working effectively in a team is one of my strengths, in addition to possessing strong programming abilities. I have extensive experience with CRM software such as Leadsquared API, custom portals,Lapps and automation. My drive and ambition make me a valuable asset to any organization. I am passionate about devising improved problem-solving methods for complex tasks and I am always eager to learn new technologies and tools as the need arises.</em>
+<em>PS: I am a committed and hardworking Software Developer with 4 years of experience. I thrive on challenges and consistently seek opportunities to enhance my skills. Working effectively in a team is one of my strengths, in addition to possessing strong programming abilities. I have extensive experience with CRM software such as Leadsquared API, custom portals,Lapps and automation. My drive and ambition make me a valuable asset to any organization. I am passionate about devising improved problem-solving methods for complex tasks and I am always eager to learn new technologies and tools as the need arises.</em>
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="margin-top:100px"/>
